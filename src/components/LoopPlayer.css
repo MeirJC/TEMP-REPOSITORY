@@ -1,0 +1,15 @@
+.btn-div {
+  margin: 1rem;
+  padding: 0.6rem 1rem;
+  border: 2px solid white;
+  border-radius: 0.4rem;
+  cursor: pointer;
+}
+
+.btn-div2 {
+  margin: 1rem;
+  padding: 0.6rem 1rem;
+  border: 2px solid goldenrod;
+  border-radius: 0.4rem;
+  cursor: pointer;
+}
